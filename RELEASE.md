@@ -1,42 +1,52 @@
-# Викладка релізу ViewSync (public repo)
+# Выкладка релиза ViewSync (public repo)
 
-Репозиторій: https://github.com/pvalerii-kh/ViewSync
+Репозиторий: https://github.com/pvalerii-kh/ViewSync
 
-Агент читає маніфест:
+Агент и Setup читают манифест:
 `https://raw.githubusercontent.com/pvalerii-kh/ViewSync/main/latest.json`
 
-## Структура zip
+## Ссылка для пользователей (вечная)
 
-`ViewSync-<version>.zip` повинен містити в корені (або в одному підкаталозі):
+Онлайн-установщик (не менять при каждом релизе версии):
+
+`https://github.com/pvalerii-kh/ViewSync/releases/download/installer/ViewSyncSetup.exe`
+
+Кнопка в боте → эта URL. Setup сам тянет актуальный zip из `latest.json`.
+
+Пересобирать Setup только при багах установщика / смене путей.
+
+Выкладка Setup:
+
+```powershell
+pyinstaller --noconfirm setup.spec
+gh release upload installer .\dist\ViewSyncSetup.exe --repo pvalerii-kh/ViewSync --clobber
+```
+
+(если release `installer` ещё нет — создать один раз с `--notes "Installer channel"`)
+
+## Структура zip (версии)
+
+`ViewSync-<version>.zip` в корне (или в одном подкаталоге):
 
 - `ViewSync.exe`
 - `ViewSyncUpdater.exe`
 
-## Кроки
+Папка установки у пользователя: `%LOCALAPPDATA%\ViewSync\`
 
-1. Зібрати агента: `pyinstaller build.spec`
-2. Зібрати updater: `pyinstaller updater.spec`
-3. Упакувати:
+## Шаги релиза версии
+
+1. Собрать агента: `pyinstaller build.spec`
+2. Собрать updater: `pyinstaller updater.spec`
+3. Упаковать:
    ```powershell
    .\scripts\pack_release.ps1 -Version 0.1.3a
    ```
-4. Створити GitHub Release з tag `v0.1.3a` і прикріпити zip.
-5. Оновити `latest.json` у гілці `main`:
+4. GitHub Release tag `v0.1.3a` + zip.
+5. Обновить `latest.json` в `main` (version, download_url, **sha256**, notes).
 
-```json
-{
-  "version": "0.1.3a",
-  "min_supported_version": "0.1.0a",
-  "mandatory": false,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.3a/ViewSync-0.1.3a.zip",
-  "sha256": "<з pack_release.ps1>",
-  "release_notes_ua": "…"
-}
-```
-
-`sha256` обовʼязковий для автоустановки (B10b). Порожній хеш → агент відкриє сторінку завантаження вручну.
+`sha256` обязателен. Пустой → автоустановка не пройдёт.
 
 ## Mandatory
 
-- `"mandatory": true` — користувач не може «Пізніше», моніторинг на паузі.
-- або `APP_VERSION < min_supported_version` — теж вважається обовʼязковим.
+- `"mandatory": true` — нельзя «Пізніше», мониторинг на паузе.
+- или `APP_VERSION < min_supported_version` — тоже обязательное.
