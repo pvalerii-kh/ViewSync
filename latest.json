@@ -1,8 +1,8 @@
 {
-  "version": "0.1.3a",
-  "min_supported_version": "0.1.2a",
+  "version": "0.1.5a",
+  "min_supported_version": "0.1.3a",
   "mandatory": false,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.3a/ViewSync-0.1.3a.zip",
-  "sha256": "9578b1aa22a793299d9a2106208c81579a3ba0bf1f8bb4312d2d95d11f1d6c35",
-  "release_notes_ua": "V2: sync без обовʼязкового Telegram (DeviceToken/код з кабінету), glass UI, аптайм/ігри на сайті."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.5a/ViewSync-0.1.5a.zip",
+  "sha256": "f8e8878b6c1c92dbd6d66cdc8e1cc58a7506b3644a1c245ac598beeddf3803f1",
+  "release_notes_ua": "V2: Qt UI, С€Р°СЂ app/ (РјРѕРґСѓР»С–+UI), BackgroundTaskHost, soft paywall Patreon, СЃР°Р№С‚ СЏРє SoT."
 }
