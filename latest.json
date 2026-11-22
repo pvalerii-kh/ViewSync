@@ -4,5 +4,5 @@
   "mandatory": false,
   "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.5a/ViewSync-0.1.5a.zip",
   "sha256": "f8e8878b6c1c92dbd6d66cdc8e1cc58a7506b3644a1c245ac598beeddf3803f1",
-  "release_notes_ua": "V2: Qt UI, С€Р°СЂ app/ (РјРѕРґСѓР»С–+UI), BackgroundTaskHost, soft paywall Patreon, СЃР°Р№С‚ СЏРє SoT."
+  "release_notes_ua": "V2: Qt UI, app/ layer (modules+UI), BackgroundTaskHost, soft paywall Patreon, site SoT."
 }
