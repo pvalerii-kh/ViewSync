@@ -1,8 +1,8 @@
 {
-  "version": "0.1.7b",
+  "version": "0.1.7c",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.7b/ViewSync-0.1.7b.zip",
-  "sha256": "5f66d9217b5c9496619e73b15a3b341872883e62647ed1e1c8a2d4c3c31dc67b",
-  "notes": "Анінсталер відвʼязує ПК на сайті. Сповіщення без дубля заголовка. Онлайн — 90 с після last_seen."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.7c/ViewSync-0.1.7c.zip",
+  "sha256": "95b0f236e42bb964acb0196b07ca3e5a8f04348419cb339c9e624ec42067a3da",
+  "notes": "Рівна шапка вікна: підпис і хрестик по центру, без наїзду на межу."
 }
