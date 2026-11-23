@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6c",
+  "version": "0.1.6d",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6c/ViewSync-0.1.6c.zip",
-  "sha256": "c18551e1704e82fc89049fa628dc6adcf557f8e3fd5a1cf99eebaf4c3c6b9e42",
-  "notes": "Перевірка оновлень у треї та налаштуваннях. Тариф. Галочка процесів діє одразу. Без підписів під чекбоксами."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6d/ViewSync-0.1.6d.zip",
+  "sha256": "6d970e623d6449e8e466a5e188f055de64837e967414f3e15892efc58d59e2e4",
+  "notes": "Світлі системні вікна. Sync розкладу і налаштувань з сайтом. Вкладка Налаштування в ЛК."
 }
