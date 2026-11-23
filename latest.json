@@ -1,8 +1,8 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.12",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.10/ViewSync-0.1.10.zip",
-  "sha256": "0414d73b65e80fbc88311e0a4ee10481068125fee42b0ea342deae4c6b5e3c77",
-  "notes": "Після оновлення програма знову запускається. Під час apply — вікно на панелі задач. Без нумерації шапок."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.12/ViewSync-0.1.12.zip",
+  "sha256": "635d9b9bb5db2a979d624c328780aedc18c41acd182b43a99da480c93bbea504",
+  "notes": "Після оновлення — pull з сайту. Порожня сітка не затирає розклад. Шапка й крестик як у макеті."
 }
