@@ -1,8 +1,8 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.12/ViewSync-0.1.12.zip",
-  "sha256": "635d9b9bb5db2a979d624c328780aedc18c41acd182b43a99da480c93bbea504",
-  "notes": "Після оновлення — pull з сайту. Порожня сітка не затирає розклад. Шапка й крестик як у макеті."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.13/ViewSync-0.1.13.zip",
+  "sha256": "6a754ba1288a1a6940c60ec49b9b3a39f356b1c79383c61bc61275ba5da9403d",
+  "notes": "Шапка вікна: підпис і хрестик не наїжджають на лінію. Відступи layout окремо від border."
 }
