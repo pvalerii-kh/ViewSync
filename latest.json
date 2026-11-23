@@ -1,8 +1,8 @@
 {
   "version": "0.1.6a",
-  "min_supported_version": "0.1.0",
-  "mandatory": false,
+  "min_supported_version": "0.1.6a",
+  "mandatory": true,
   "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6a/ViewSync-0.1.6a.zip",
   "sha256": "bd51c3bc0987ba53ce7569efbbd9530cc9fb21faf2d31cab3e062f85c27e780f",
-  "notes": "Editable PC settings + schedule; sync heal for intervals; privacy retention; device tab order; link error URL."
+  "notes": "Mandatory: fix settings quit, editable intervals/schedule, sync heal."
 }
