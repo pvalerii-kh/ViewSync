@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6d",
+  "version": "0.1.7a",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6d/ViewSync-0.1.6d.zip",
-  "sha256": "6d970e623d6449e8e466a5e188f055de64837e967414f3e15892efc58d59e2e4",
-  "notes": "Світлі системні вікна. Sync розкладу і налаштувань з сайтом. Вкладка Налаштування в ЛК."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.7a/ViewSync-0.1.7a.zip",
+  "sha256": "6a36a4a48dec544149d8d7efb4543aa2b10f1fb22ae346fd1e53b9670af54533",
+  "notes": "Push налаштувань і розкладу з ПК одразу на сайт. При відкритті вікон — pull з сайту. Версія в заголовку вікна."
 }
