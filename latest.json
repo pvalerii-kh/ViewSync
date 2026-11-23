@@ -4,5 +4,6 @@
   "mandatory": true,
   "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.14/ViewSync-0.1.14.zip",
   "sha256": "0625b3e7974c537313231033e626a21d199e8b073d2fda8151945729d932d3eb",
-  "notes": "Тонка шапка 36px, підпис 13px."
+  "notes": "Тонка шапка 36px, підпис 13px.",
+  "rev": 14
 }
