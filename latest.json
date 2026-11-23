@@ -1,8 +1,8 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.13/ViewSync-0.1.13.zip",
-  "sha256": "6a754ba1288a1a6940c60ec49b9b3a39f356b1c79383c61bc61275ba5da9403d",
-  "notes": "Шапка вікна: підпис і хрестик не наїжджають на лінію. Відступи layout окремо від border."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.14/ViewSync-0.1.14.zip",
+  "sha256": "0625b3e7974c537313231033e626a21d199e8b073d2fda8151945729d932d3eb",
+  "notes": "Тонка шапка 36px, підпис 13px."
 }
