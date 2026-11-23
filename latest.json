@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5b",
+  "version": "0.1.5c",
   "min_supported_version": "0.1.0",
   "mandatory": false,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.5b/ViewSync-0.1.5b.zip",
-  "sha256": "5d4fc6a5f8564bb3eb3e458b9eadd7db5087c598e1baeeedcf1e2f4ba4b9ed9c",
-  "notes": "Fix clean install crash: NameError __file__ in agent_ui.paths (overlay load)."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.5c/ViewSync-0.1.5c.zip",
+  "sha256": "870e0cc9d2d1a331af957f6dbaabce36c84186fa9ec5190e409b5c58d5b48de5",
+  "notes": "Fix tray quit after Save in settings; clarify schedule/intervals live in cabinet."
 }
