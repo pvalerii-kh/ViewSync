@@ -1,9 +1,9 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.14/ViewSync-0.1.14.zip",
-  "sha256": "0625b3e7974c537313231033e626a21d199e8b073d2fda8151945729d932d3eb",
-  "notes": "Тонка шапка 36px, підпис 13px.",
-  "rev": 14
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.15/ViewSync-0.1.15.zip",
+  "sha256": "a9993fad9d42d79d7cae009c02e14fde227ae078f01917e62385b6856c8efe50",
+  "notes": "Змінити пароль у Налаштуваннях.",
+  "rev": 15
 }
