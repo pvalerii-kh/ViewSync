@@ -1,8 +1,8 @@
 {
-  "version": "0.1.7a",
+  "version": "0.1.7b",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.7a/ViewSync-0.1.7a.zip",
-  "sha256": "6a36a4a48dec544149d8d7efb4543aa2b10f1fb22ae346fd1e53b9670af54533",
-  "notes": "Push налаштувань і розкладу з ПК одразу на сайт. При відкритті вікон — pull з сайту. Версія в заголовку вікна."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.7b/ViewSync-0.1.7b.zip",
+  "sha256": "5f66d9217b5c9496619e73b15a3b341872883e62647ed1e1c8a2d4c3c31dc67b",
+  "notes": "Анінсталер відвʼязує ПК на сайті. Сповіщення без дубля заголовка. Онлайн — 90 с після last_seen."
 }
