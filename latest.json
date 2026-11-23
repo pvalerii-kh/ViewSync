@@ -1,9 +1,9 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.15/ViewSync-0.1.15.zip",
-  "sha256": "a9993fad9d42d79d7cae009c02e14fde227ae078f01917e62385b6856c8efe50",
-  "notes": "Змінити пароль у Налаштуваннях.",
-  "rev": 15
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.16/ViewSync-0.1.16.zip",
+  "sha256": "073cf9ae0b8022c1abeef17b4b758ee742f88c03c6d26289173f9a49a319185e",
+  "notes": "Налаштування: картка тарифу, Розклад і пароль в ряд, Додатково під спойлером.",
+  "rev": 16
 }
