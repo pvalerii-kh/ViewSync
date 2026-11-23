@@ -1,8 +1,8 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.8/ViewSync-0.1.8.zip",
-  "sha256": "c296db30e6668324e0f6e9e415a4b4fe92511137bf9cae4023f07bae8c74102d",
-  "notes": "Прогрес оновлення, рестарт після apply, lock щоб сторож не зривав установку."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.9/ViewSync-0.1.9.zip",
+  "sha256": "9486ca2b31fb11fcbf6da7f04032702bf194358c21eb52aae679b813ec11edec",
+  "notes": "Без нумерації вікон. Щільніші відступи. Прогрес і рестарт оновлення."
 }
