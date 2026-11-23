@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6b",
+  "version": "0.1.6c",
   "min_supported_version": "0.1.0",
-  "mandatory": false,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6b/ViewSync-0.1.6b.zip",
-  "sha256": "524312bb882cf436c70add0c40097c072f75c8e90199846b06ca9de3a90bad91",
-  "notes": "Qt Setup stops running app; password button/focus; settings editable."
+  "mandatory": true,
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6c/ViewSync-0.1.6c.zip",
+  "sha256": "c18551e1704e82fc89049fa628dc6adcf557f8e3fd5a1cf99eebaf4c3c6b9e42",
+  "notes": "Перевірка оновлень у треї та налаштуваннях. Тариф. Галочка процесів діє одразу. Без підписів під чекбоксами."
 }
