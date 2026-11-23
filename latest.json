@@ -1,9 +1,9 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.17/ViewSync-0.1.17.zip",
-  "sha256": "36b0f7dfbd778a12e68686b544dd999cffc4ee686f131b9ceb4a34853b6ea327",
-  "notes": "Спойлер стискає вікно; тариф і дні жирніші.",
-  "rev": 17
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.18/ViewSync-0.1.18.zip",
+  "sha256": "4f5e072683f0a34114586000dfc2bd71b06cff4fc35eec88d21319be6e858ae9",
+  "notes": "Спойлер більше не ламає верстку після згортання.",
+  "rev": 18
 }
