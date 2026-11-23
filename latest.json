@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5a",
-  "min_supported_version": "0.1.3a",
+  "version": "0.1.5b",
+  "min_supported_version": "0.1.0",
   "mandatory": false,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.5a/ViewSync-0.1.5a.zip",
-  "sha256": "f8e8878b6c1c92dbd6d66cdc8e1cc58a7506b3644a1c245ac598beeddf3803f1",
-  "release_notes_ua": "V2: Qt UI, app/ layer (modules+UI), BackgroundTaskHost, soft paywall Patreon, site SoT."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.5b/ViewSync-0.1.5b.zip",
+  "sha256": "5d4fc6a5f8564bb3eb3e458b9eadd7db5087c598e1baeeedcf1e2f4ba4b9ed9c",
+  "notes": "Fix clean install crash: NameError __file__ in agent_ui.paths (overlay load)."
 }
