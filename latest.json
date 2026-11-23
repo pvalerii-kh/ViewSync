@@ -1,9 +1,9 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.18/ViewSync-0.1.18.zip",
-  "sha256": "4f5e072683f0a34114586000dfc2bd71b06cff4fc35eec88d21319be6e858ae9",
-  "notes": "Спойлер більше не ламає верстку після згортання.",
-  "rev": 18
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.19/ViewSync-0.1.19.zip",
+  "sha256": "19a393ca77e5bf452d0b5f2bb66cbe032f2747acd7c305f503676ea5072caa8a",
+  "notes": "Ліміт скрінів на тиждень як на сайті. Apply не чекає 90с.",
+  "rev": 19
 }
