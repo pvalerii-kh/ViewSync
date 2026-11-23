@@ -1,8 +1,8 @@
 {
-  "version": "0.1.7c",
+  "version": "0.1.8",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.7c/ViewSync-0.1.7c.zip",
-  "sha256": "95b0f236e42bb964acb0196b07ca3e5a8f04348419cb339c9e624ec42067a3da",
-  "notes": "Рівна шапка вікна: підпис і хрестик по центру, без наїзду на межу."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.8/ViewSync-0.1.8.zip",
+  "sha256": "c296db30e6668324e0f6e9e415a4b4fe92511137bf9cae4023f07bae8c74102d",
+  "notes": "Прогрес оновлення, рестарт після apply, lock щоб сторож не зривав установку."
 }
