@@ -1,8 +1,8 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.9/ViewSync-0.1.9.zip",
-  "sha256": "9486ca2b31fb11fcbf6da7f04032702bf194358c21eb52aae679b813ec11edec",
-  "notes": "Без нумерації вікон. Щільніші відступи. Прогрес і рестарт оновлення."
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.10/ViewSync-0.1.10.zip",
+  "sha256": "0414d73b65e80fbc88311e0a4ee10481068125fee42b0ea342deae4c6b5e3c77",
+  "notes": "Після оновлення програма знову запускається. Під час apply — вікно на панелі задач. Без нумерації шапок."
 }
