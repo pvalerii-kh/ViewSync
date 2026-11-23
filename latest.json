@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6a",
-  "min_supported_version": "0.1.6a",
-  "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6a/ViewSync-0.1.6a.zip",
-  "sha256": "bd51c3bc0987ba53ce7569efbbd9530cc9fb21faf2d31cab3e062f85c27e780f",
-  "notes": "Mandatory: fix settings quit, editable intervals/schedule, sync heal."
+  "version": "0.1.6b",
+  "min_supported_version": "0.1.0",
+  "mandatory": false,
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.6b/ViewSync-0.1.6b.zip",
+  "sha256": "524312bb882cf436c70add0c40097c072f75c8e90199846b06ca9de3a90bad91",
+  "notes": "Qt Setup stops running app; password button/focus; settings editable."
 }
