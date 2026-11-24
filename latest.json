@@ -1,9 +1,9 @@
 {
-  "version": "0.1.20",
+  "version": "0.1.21",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.20/ViewSync-0.1.20.zip",
-  "sha256": "cf076b1ba547f8d7868d7221c2d3c71de8d42cad71c089d1a3f810bdae5df2a3",
-  "notes": "Ліміт скрінів з сайту (240), не запасні 900.",
-  "rev": 20
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.21/ViewSync-0.1.21.zip",
+  "sha256": "9ca639203b8c8dacee756acb28c79a8186d6683d32820f88c5a02588f1a2ce17",
+  "notes": "Jitter відправки 0–120с; умови використання + 2 чекбокси згоди; оновлена політика.",
+  "rev": 21
 }
