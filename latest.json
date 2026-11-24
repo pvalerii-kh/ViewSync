@@ -4,6 +4,6 @@
   "mandatory": true,
   "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.21/ViewSync-0.1.21.zip",
   "sha256": "9ca639203b8c8dacee756acb28c79a8186d6683d32820f88c5a02588f1a2ce17",
-  "notes": "Jitter відправки 0–120с; умови використання + 2 чекбокси згоди; оновлена політика.",
+  "notes": "Jitter відправки 0-120с; умови використання + 2 чекбокси згоди; оновлена політика.",
   "rev": 21
 }
