@@ -1,9 +1,9 @@
 {
-  "version": "0.1.23",
+  "version": "0.1.24",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.23/ViewSync-0.1.23.zip",
-  "sha256": "f1e672896e482fa49faa3646aa5987369cd3d10c3b60d51518c84cd9f70d9e75",
-  "notes": "Розклад: завантаження і збереження через сайт (GET/PUT), не повний sync.",
-  "rev": 23
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.24/ViewSync-0.1.24.zip",
+  "sha256": "d3b465807ae642c7112156dadc3575c3e702998a1bd9841e4624794cdf2db783",
+  "notes": "Fix PySide6 crash after overlay update; schedule still GET/PUT to site.",
+  "rev": 24
 }
