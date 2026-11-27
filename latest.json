@@ -1,9 +1,9 @@
 {
-  "version": "0.1.21",
+  "version": "0.1.22",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.21/ViewSync-0.1.21.zip",
-  "sha256": "9ca639203b8c8dacee756acb28c79a8186d6683d32820f88c5a02588f1a2ce17",
-  "notes": "Send jitter 0-120s; terms of use + 2 consent checkboxes; updated privacy policy.",
-  "rev": 21
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.22/ViewSync-0.1.22.zip",
+  "sha256": "81b740dec9c6e5eac8f6826b063be71ef1ca347488572327c0c05a6fbd2e4c2e",
+  "notes": "Fix schedule save when screenshots are off; parent TG only on game alert.",
+  "rev": 22
 }
