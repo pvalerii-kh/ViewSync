@@ -1,9 +1,9 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "min_supported_version": "0.1.0",
   "mandatory": true,
-  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.26/ViewSync-0.1.26.zip",
-  "sha256": "04c13db234b3936149f66bcbb355b29a562a0cc433c1dd16ef7acb33bf839634",
-  "notes": "DeviceHealthSvc (системна іконка). Розпакуйте zip повністю (має бути папка _internal).",
-  "rev": 26
+  "download_url": "https://github.com/pvalerii-kh/ViewSync/releases/download/v0.1.27/ViewSync-0.1.27.zip",
+  "sha256": "ca5b68100b0dece935f9631ec38d77ed742d89227e7f16441f55a5f72c989cb1",
+  "notes": "Фікс запуску після оновлення (helper --apply). Розпакуйте zip повністю (_internal).",
+  "rev": 27
 }
